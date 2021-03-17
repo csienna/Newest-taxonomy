@@ -1,5 +1,4 @@
 ## Aa 
-Text text
 
 ### [AAA](/wiki/AAA.md)
 ### [AOC](/wiki/AOC.md)
@@ -9,6 +8,4 @@ Text text
 ### [Assessor](/wiki/Assessor.md)
 ### [ASV](/wiki/Asv.md)
 ### [Audit boundaries](/wiki/Auditboundaries.md)
-
-### [ASV](/wiki/Asv.md)
 
