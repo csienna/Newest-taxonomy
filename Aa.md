@@ -6,6 +6,6 @@
 ### [Advanced Persistent Threat](/wiki/AdvancedPersistentThreat.md)
 ### [Artifact](/wiki/Artifact.md)
 ### [Assessor](/wiki/Assessor.md)
-### [ASV](/wiki/asv.md)
+### [Audit opinion](/wiki/auditopinion.md)
 ### [Audit boundaries](/wiki/auditboundaries.md)
 
