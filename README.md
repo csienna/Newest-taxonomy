@@ -23,7 +23,7 @@ A framework to describe and classify terms.
 ## [# Ff](Ff.md)
 {:.no_toc}
 
-## [# Gg(Gg.md)
+## [Gg](Gg.md)
 {:.no_toc}
 
 ## [# Hh](Hh.md)
